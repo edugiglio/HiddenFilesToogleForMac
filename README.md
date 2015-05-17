@@ -25,7 +25,7 @@ or
   hiddenfiles true | false
 </code>
 
-Change the execute permission (if necessary):
+Change the execution permission (if necessary):
 <code>
   chmod u+x hiddenfiles
 </code>
