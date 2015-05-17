@@ -1,6 +1,11 @@
 # Hidden Files Toogle for Mac OSX
 Switcher hidden files bin for Mac OSX.
 
+Download the last program executable here:
+<link>https://github.com/danilogcarolino/HiddenFilesToogleForMac/releases/download/1.0/hiddenfiles</link>
+
+OR
+
 Building program:
 <code>
   gcc -Wall -g main.c -o hiddenfiles
