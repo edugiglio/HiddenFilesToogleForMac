@@ -1,5 +1,5 @@
-# Hidden Files Toogle for Mac OSX
-Switcher hidden files bin for Mac OSX.
+# Hidden Files Toogle for Mac OSX Finder
+Switcher hidden files for Mac OSX Finder.
 
 Download the last program executable here:
 <link>https://github.com/danilogcarolino/HiddenFilesToogleForMac/releases/download/1.0/hiddenfiles</link>
