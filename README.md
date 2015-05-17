@@ -6,7 +6,7 @@ Download the last program executable here:
 
 OR
 
-Building program:
+Build the program:
 <code>
   gcc -Wall -g main.c -o hiddenfiles
 </code>
