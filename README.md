@@ -20,6 +20,11 @@ or
   hiddenfiles true | false
 </code>
 
+Change the execute permission (if necessary):
+<code>
+  chmod u+x hiddenfiles
+</code>
+
 The program will only run the appropriate command in background to show or hide your hidden system files.
 
 Enjoy.
