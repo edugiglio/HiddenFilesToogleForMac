@@ -11,7 +11,7 @@ int main(int argc, char const *argv[])
 	}
 	else if (strcmp(argv[1], "off") == 0 || strcmp(argv[1], "false") == 0)
 	{
-		system("defaults write com.apple.finder AppleShowAllFiles FALSE && killall Finder ");
+		system("defaults write com.apple.finder AppleShowAllFiles FALSE");
 		printf("%s\n", "All hidden files and directories are invisible now.");
 	}
 	else
